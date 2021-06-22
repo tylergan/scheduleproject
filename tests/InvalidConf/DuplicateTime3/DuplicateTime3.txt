@@ -1,0 +1,2 @@
+Testing that runner.py outputs the correct output to STDERR when there is:
+    1) Duplicate days located in the command line for the config file

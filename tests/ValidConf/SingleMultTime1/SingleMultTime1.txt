@@ -1,0 +1,2 @@
+Testing that the output for runner.py and runner.status works when: 
+    1) Running a single line specifying multiple times (testing two days and times)

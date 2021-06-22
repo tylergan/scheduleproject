@@ -1,0 +1,2 @@
+Testing that runner.py outputs the correct output to STDERR when there is:
+    1) Incorrect time as the hours do not range from [00, 24] but [00, 23] instead

@@ -1,0 +1,36 @@
+will run at XX XX XX 09:00:00 2020 abc 123
+will run at XX XX XX 10:00:00 2020 /home/bob/myprog
+will run at XX XX XX 12:00:00 2020 /bin/echo hello
+will run at XX XX XX 16:54:00 2020 /bin/echo hello
+will run at XX XX XX 12:00:00 2020 /bin/echo hello
+will run at XX XX XX 16:54:00 2020 /bin/echo hello
+error XX XX XX 09:00:00 2020 abc 123
+will run at XX XX XX 10:00:00 2020 /home/bob/myprog
+will run at XX XX XX 12:00:00 2020 /bin/echo hello
+will run at XX XX XX 16:54:00 2020 /bin/echo hello
+will run at XX XX XX 12:00:00 2020 /bin/echo hello
+will run at XX XX XX 16:54:00 2020 /bin/echo hello
+error XX XX XX 09:00:00 2020 abc 123
+error XX XX XX 10:00:00 2020 /home/bob/myprog
+will run at XX XX XX 12:00:00 2020 /bin/echo hello
+will run at XX XX XX 16:54:00 2020 /bin/echo hello
+will run at XX XX XX 12:00:00 2020 /bin/echo hello
+will run at XX XX XX 16:54:00 2020 /bin/echo hello
+error XX XX XX 09:00:00 2020 abc 123
+error XX XX XX 10:00:00 2020 /home/bob/myprog
+ran XX XX XX 12:00:00 2020 /bin/echo hello
+will run at XX XX XX 16:54:00 2020 /bin/echo hello
+will run at XX XX XX 12:00:00 2020 /bin/echo hello
+will run at XX XX XX 16:54:00 2020 /bin/echo hello
+error XX XX XX 09:00:00 2020 abc 123
+error XX XX XX 10:00:00 2020 /home/bob/myprog
+ran XX XX XX 12:00:00 2020 /bin/echo hello
+ran XX XX XX 16:54:00 2020 /bin/echo hello
+will run at XX XX XX 12:00:00 2020 /bin/echo hello
+will run at XX XX XX 16:54:00 2020 /bin/echo hello
+error XX XX XX 09:00:00 2020 abc 123
+error XX XX XX 10:00:00 2020 /home/bob/myprog
+ran XX XX XX 12:00:00 2020 /bin/echo hello
+ran XX XX XX 16:54:00 2020 /bin/echo hello
+ran XX XX XX 12:00:00 2020 /bin/echo hello
+will run at XX XX XX 16:54:00 2020 /bin/echo hello

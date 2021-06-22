@@ -1,0 +1,2 @@
+Testing that runner.py outputs the correct output to STDERR when there is:
+    1) Duplicate times in the same command line of the config file

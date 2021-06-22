@@ -1,0 +1,6 @@
+Testing that the output for runner.py and runner.status works when: 
+    1) The process specified to run in that configuration file will return a status not equal to 0
+
+NOTE THAT:
+The python program (when encountering a FileNotFound exception) will exit with a status code of 1 (implying that the program did not successfully run). Under the circumstance that 
+the program did not exit with a status of 1, the process would have returned as "successfully ran".

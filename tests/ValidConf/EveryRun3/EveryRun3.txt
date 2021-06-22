@@ -1,0 +1,2 @@
+Testing that the output for runner.py and runner.status works when: 
+    1) How the program reacts when the command line specifies that they wish to run a process EVERY week (testing with two config lines)

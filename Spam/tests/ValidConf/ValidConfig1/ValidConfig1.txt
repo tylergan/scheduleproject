@@ -1,0 +1,1 @@
+Testing for a valid config file. It should not output any errors

@@ -1,0 +1,2 @@
+Testing that the output for runner.py and runner.status works when: 
+    1) The configuration file has two errors located in the file.

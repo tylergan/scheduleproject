@@ -1,0 +1,2 @@
+Testing that the output for runner.py and runner.status works when: 
+    1) The process specified to run in that configuration file will return a status not equal to 0

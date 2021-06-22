@@ -1,0 +1,30 @@
+will run at XX XX XX 09:00:00 2020 /usr/bin/python3 tests/ValidConf/ErrorRun2/ErrorRun2.py
+will run at XX XX XX 12:00:00 2020 /bin/echo hello
+will run at XX XX XX 16:54:00 2020 /bin/echo hello
+will run at XX XX XX 12:00:00 2020 /bin/echo hello
+will run at XX XX XX 16:54:00 2020 /bin/echo hello
+error XX XX XX 09:00:00 2020 /usr/bin/python3 tests/ValidConf/ErrorRun2/ErrorRun2.py
+will run at XX XX XX 12:00:00 2020 /bin/echo hello
+will run at XX XX XX 16:54:00 2020 /bin/echo hello
+will run at XX XX XX 12:00:00 2020 /bin/echo hello
+will run at XX XX XX 16:54:00 2020 /bin/echo hello
+error XX XX XX 09:00:00 2020 /usr/bin/python3 tests/ValidConf/ErrorRun2/ErrorRun2.py
+ran XX XX XX 12:00:00 2020 /bin/echo hello
+will run at XX XX XX 16:54:00 2020 /bin/echo hello
+will run at XX XX XX 12:00:00 2020 /bin/echo hello
+will run at XX XX XX 16:54:00 2020 /bin/echo hello
+error XX XX XX 09:00:00 2020 /usr/bin/python3 tests/ValidConf/ErrorRun2/ErrorRun2.py
+ran XX XX XX 12:00:00 2020 /bin/echo hello
+ran XX XX XX 16:54:00 2020 /bin/echo hello
+will run at XX XX XX 12:00:00 2020 /bin/echo hello
+will run at XX XX XX 16:54:00 2020 /bin/echo hello
+error XX XX XX 09:00:00 2020 /usr/bin/python3 tests/ValidConf/ErrorRun2/ErrorRun2.py
+ran XX XX XX 12:00:00 2020 /bin/echo hello
+ran XX XX XX 16:54:00 2020 /bin/echo hello
+ran XX XX XX 12:00:00 2020 /bin/echo hello
+will run at XX XX XX 16:54:00 2020 /bin/echo hello
+error XX XX XX 09:00:00 2020 /usr/bin/python3 tests/ValidConf/ErrorRun2/ErrorRun2.py
+ran XX XX XX 12:00:00 2020 /bin/echo hello
+ran XX XX XX 16:54:00 2020 /bin/echo hello
+ran XX XX XX 12:00:00 2020 /bin/echo hello
+ran XX XX XX 16:54:00 2020 /bin/echo hello

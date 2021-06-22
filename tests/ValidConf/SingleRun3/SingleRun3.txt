@@ -1,0 +1,6 @@
+Testing that runner.py and runstatus.py outputs the correct output to STDOUT/STDERR when there is:
+    1) A single command line in the config file while trying to run a Python file
+
+NOTE THAT:
+You will notice that, despite an exception occurring, the program does not exit with a status code, hence its default returns 0, causing runner.py to say that the
+process ran successfully (which it did for this program).
